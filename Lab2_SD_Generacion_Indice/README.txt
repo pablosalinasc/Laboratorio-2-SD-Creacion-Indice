@@ -1,0 +1,1 @@
+Si corre mongo en un versión e 32 bit, asegurese de usar el comando "mongod --journal"
